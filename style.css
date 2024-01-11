@@ -1,0 +1,18 @@
+#png{
+	border-radius:200px;
+	background-color:yellow;
+	height:250px;
+	width:250px;
+	margin:auto;
+	border:5px solid white;
+}
+#all{
+	text-align:center;
+	height:500px;
+	width:350px;
+	margin:auto;
+	 background-color:#E9E4D4;
+}
+img{
+	border-radius:200px;
+}
